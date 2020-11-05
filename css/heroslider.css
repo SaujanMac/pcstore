@@ -1,0 +1,87 @@
+.slick-slide:focus, .slick-cloned:focus, .slick-current:focus, .slick-active:focus {
+  outline: none;
+}
+.slide1{
+    background: #000 url('/pcstore/dist/images/heroslider1.png') no-repeat center/cover;
+    border-radius: .3rem;
+    overflow: hidden;
+  }
+  .slide2 {
+    background: #000 url('/pcstore/dist/images/heroslider2.png') no-repeat center/cover;
+    border-radius: .3rem;
+    overflow: hidden;
+  }
+  .slide3 {
+    background: #000 url('/pcstore/dist/images/heroslider3.png') no-repeat center/cover;
+    border-radius: .3rem;
+    overflow: hidden;
+  }
+  .slide4 {
+    background: #000 url('/pcstore/dist/images/heroslider4.png') no-repeat center/cover;
+    border-radius: .3rem;
+    overflow: hidden;
+  }
+  .jumbotron .blackop {
+    background-color: rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: calc(100vh - 162px);
+    transition: all 0.2s ease-in-out;
+  }
+  .jumbotron .content {
+    padding: 6rem 5rem;
+    cursor:auto;
+    z-index: 999;
+  }
+  .jumbotron .content a.btn-primary {
+    background: #D97E08;
+    border: none;
+  }
+  .slider-nav {
+    padding: 4px;
+    width: 100%;
+  }
+  .slide_thumb {
+  width: 250px;
+  height: 250px;
+  margin: 0px 10px;
+  overflow: hidden;
+  background-color: #202020;
+  cursor: pointer;
+  }
+  .slide_thumb:focus{
+    outline: auto;
+    -moz-outline-radius: 1rem;
+    -webkit-outline-radius: 1rem;
+  
+  }
+  .slide_thumb:focus > img{
+    outline: none;
+  }
+  .slide_thumb img {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+  }
+  .slide_thumb p {
+    padding: 5px 10px;
+    font-size: 1.2rem;
+  }
+  .jumbotron {
+    padding: 0!important;
+    margin-bottom: 0;
+    background-color: hsla(0, 0%, 2%, 1);
+    border-radius: 0;
+    height: calc(100vh - 162px);
+    color: #fff
+  }
+  .jumbotron .lead {
+    color: #e3f2fd;
+    font-size: 1rem;
+    padding:0.5rem;
+    cursor: text;
+  }
+  .jumbotron h1{
+    cursor: text;
+  }
+
+  
