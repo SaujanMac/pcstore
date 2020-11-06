@@ -2,22 +2,22 @@
   outline: none;
 }
 .slide1{
-    background: #000 url('/pcstore/dist/images/heroslider1.png') no-repeat center/cover;
+    background: #000 url('/images/heroslider1.png') no-repeat center/cover;
     border-radius: .3rem;
     overflow: hidden;
   }
   .slide2 {
-    background: #000 url('/pcstore/dist/images/heroslider2.png') no-repeat center/cover;
+    background: #000 url('/images/heroslider2.png') no-repeat center/cover;
     border-radius: .3rem;
     overflow: hidden;
   }
   .slide3 {
-    background: #000 url('/pcstore/dist/images/heroslider3.png') no-repeat center/cover;
+    background: #000 url('/images/heroslider3.png') no-repeat center/cover;
     border-radius: .3rem;
     overflow: hidden;
   }
   .slide4 {
-    background: #000 url('/pcstore/dist/images/heroslider4.png') no-repeat center/cover;
+    background: #000 url('/images/heroslider4.png') no-repeat center/cover;
     border-radius: .3rem;
     overflow: hidden;
   }
